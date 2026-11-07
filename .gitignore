@@ -1,0 +1,15 @@
+
+*.class
+/build/
+/dist/
+/target/
+**/build/
+/nbproject/private/
+**/private.xml
+**/private.properties
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
